@@ -38,5 +38,5 @@ public class Apple {
 
     public static String[] getAppleSizes() {
         return new String[] { "SMALL", "MEDIUM", "LARGE" };
-    }-
+    }
 }
